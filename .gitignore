@@ -273,5 +273,3 @@ typings/
 # Sonarlint plugin
 .idea/sonarlint
 
-
-# End of https://www.gitignore.io/api/git,node,macos,webstorm,intellij+all,jetbrains+all

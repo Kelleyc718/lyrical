@@ -7,7 +7,8 @@ class SongCreate extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            title: ''
+            title: '',
+            loading: false
         };
     }
 
